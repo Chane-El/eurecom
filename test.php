@@ -1,3 +1,3 @@
 <?php
-echo "seconde page : test";
+echo "test de merge";
 ?>
